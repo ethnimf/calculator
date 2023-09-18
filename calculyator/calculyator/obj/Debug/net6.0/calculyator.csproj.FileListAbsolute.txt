@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\calculyator\calculyator\bin\Debug\net6.0\calculyator.exe
+C:\Users\User\source\repos\calculyator\calculyator\bin\Debug\net6.0\calculyator.deps.json
+C:\Users\User\source\repos\calculyator\calculyator\bin\Debug\net6.0\calculyator.runtimeconfig.json
+C:\Users\User\source\repos\calculyator\calculyator\bin\Debug\net6.0\calculyator.dll
+C:\Users\User\source\repos\calculyator\calculyator\bin\Debug\net6.0\calculyator.pdb
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\calculyator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\calculyator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\calculyator.AssemblyInfo.cs
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\calculyator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\calculyator.dll
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\refint\calculyator.dll
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\calculyator.pdb
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\calculyator.genruntimeconfig.cache
+C:\Users\User\source\repos\calculyator\calculyator\obj\Debug\net6.0\ref\calculyator.dll
